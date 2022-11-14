@@ -10,3 +10,5 @@
 10. In your Discord server with the bot and community enabled, run /ping
 11. ...
 12. Profit???
+
+This is entirely referenced off of https://discordjs.guide/#before-you-begin to show people how easy it is to get a Discord Active Developer Badge. Go learn something new!
